@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmetttsevinc
+- 👀 I’m interested in leadership and project management
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on making opportunities
+- 📫 How to reach me https://www.linkedin.com/in/ahmetttsevinc/
