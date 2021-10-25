@@ -2,4 +2,4 @@
 - 👀 I’m interested in leadership and project management
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on making opportunities
-- 📫 How to reach me https://www.linkedin.com/in/ahmetttsevinc/
+- 📫 How to reach me <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
